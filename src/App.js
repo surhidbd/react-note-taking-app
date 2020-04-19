@@ -6,6 +6,9 @@ class App extends Component {
   return (
     <div className="note-taking-app">
       <NoteTaking/>
+      //New line
+      //dasfa
+      /fdsafsa
     </div>
   );
 }
